@@ -4,7 +4,7 @@
 2. Start UI: `make dev`
 3. Navigate to [http://localhost:3000]() for a working version of the
    page
-4. Navigate to [http://localhost:3000]() for the same page with added
+4. Navigate to [http://localhost:3000/bug]() for the same page with added
    sanctuary import
 
 # Bug
