@@ -11,7 +11,7 @@ install: ## 1. Install software
 	yarn
 
 .PHONY: dev
-dev: ## Start up
+dev: ## Start UI
 	yarn dev
 
 .PHONY: clean
